@@ -1,0 +1,11 @@
+Model Information:
+* title:	exterior
+* source:	https://sketchfab.com/3d-models/exterior-a1f64f3fa7eb4bcc837a6e07e4ead9ad
+* author:	mdmudasir17 (https://sketchfab.com/mudu85)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "exterior" (https://sketchfab.com/3d-models/exterior-a1f64f3fa7eb4bcc837a6e07e4ead9ad) by mdmudasir17 (https://sketchfab.com/mudu85) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
